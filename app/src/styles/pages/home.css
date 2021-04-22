@@ -1,0 +1,60 @@
+#home {
+  height: 100%; /* 100vh forces to cover the screen. 100% only cover the screen if there is a lot of content. */
+}
+#home .container {
+  margin: 0 auto;
+  padding-top: 32px;
+  max-width: 320px;
+}
+
+#home .container > .title {
+  padding-left: 8px;
+  margin-bottom: 16px;
+  font-size: 20px;
+  letter-spacing: -0.75px;
+}
+
+/* YouTube breakpoints */
+@media only screen and (min-width: 500px) {
+  #home .container {
+    max-width: calc(
+      2 * 320px + 16px
+    ); /* the max width is 2 columns + the gap */
+  }
+  #home .grid {
+    display: grid; /* the native way of creating columns withouth hacks or frameworks */
+    grid-template-columns: repeat(2, 1fr);
+    grid-column-gap: 16px;
+  }
+}
+
+@media only screen and (min-width: 660px) {
+  #home .container {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+
+  #home .container .title {
+    padding-left: 0;
+  }
+}
+
+@media only screen and (min-width: 900px) {
+  #home .container {
+    max-width: calc(3 * 320px + 16px);
+  }
+
+  #home .grid {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+
+@media only screen and (min-width: 1000px) {
+  #home .container {
+    max-width: 960px;
+  }
+
+  #home .grid {
+    grid-template-columns: repeat(4, 1fr);
+  }
+}

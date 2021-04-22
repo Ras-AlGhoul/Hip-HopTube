@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4b54eb81.chunk.css",
+    "main.js": "/static/js/main.2d8ba354.chunk.js",
+    "main.js.map": "/static/js/main.2d8ba354.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.d20d844e.js",
+    "runtime-main.js.map": "/static/js/runtime-main.d20d844e.js.map",
+    "static/js/2.a84aea8d.chunk.js": "/static/js/2.a84aea8d.chunk.js",
+    "static/js/2.a84aea8d.chunk.js.map": "/static/js/2.a84aea8d.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.4b54eb81.chunk.css.map": "/static/css/main.4b54eb81.chunk.css.map",
+    "static/js/2.a84aea8d.chunk.js.LICENSE.txt": "/static/js/2.a84aea8d.chunk.js.LICENSE.txt",
+    "static/media/adele.jpeg": "/static/media/adele.803c0dd0.jpeg",
+    "static/media/alicia-keys.jpeg": "/static/media/alicia-keys.7121e7e8.jpeg",
+    "static/media/austin-evans.jpeg": "/static/media/austin-evans.feae9651.jpeg",
+    "static/media/billie-eilish.jpeg": "/static/media/billie-eilish.cc954943.jpeg",
+    "static/media/boeing-737-max.jpeg": "/static/media/boeing-737-max.846cbe69.jpeg",
+    "static/media/chis-cornell.jpeg": "/static/media/chis-cornell.3278fda4.jpeg",
+    "static/media/classic-game-room.jpeg": "/static/media/classic-game-room.a567a4ce.jpeg",
+    "static/media/ign.jpeg": "/static/media/ign.df67d970.jpeg",
+    "static/media/logo-dark.svg": "/static/media/logo-dark.fb3bc84c.svg",
+    "static/media/logo-light.svg": "/static/media/logo-light.9baf095a.svg",
+    "static/media/plane-tires.jpeg": "/static/media/plane-tires.51a2793f.jpeg",
+    "static/media/real-engineering.jpeg": "/static/media/real-engineering.7bea75a9.jpeg",
+    "static/media/sonic-boom-problem.jpeg": "/static/media/sonic-boom-problem.dc7490dc.jpeg",
+    "static/media/supersonic-flight.jpeg": "/static/media/supersonic-flight.00260aa6.jpeg",
+    "static/media/switch-lite.jpeg": "/static/media/switch-lite.3b24497c.jpeg",
+    "static/media/unboxing-gameboy-color.jpeg": "/static/media/unboxing-gameboy-color.68622139.jpeg",
+    "static/media/unboxing-gameboy.jpeg": "/static/media/unboxing-gameboy.bcaa1602.jpeg",
+    "static/media/vox.jpeg": "/static/media/vox.7ae4d2d5.jpeg",
+    "static/media/you-know-my-name.jpeg": "/static/media/you-know-my-name.b45d0007.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d20d844e.js",
+    "static/js/2.a84aea8d.chunk.js",
+    "static/css/main.4b54eb81.chunk.css",
+    "static/js/main.2d8ba354.chunk.js"
+  ]
+}

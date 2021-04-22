@@ -1,0 +1,33 @@
+/* 
+Notes:
+Order of importing:
+The order of importing the components, affects the final style of the items.
+The order must be from broad to specific, thats why we import in this order:
+1. Base
+2. Pages/Templates
+3. Modules
+4. Components
+
+Class naming:
+1. Classes related to a React component are written in uppercase withouth spaces. Example: CardGrid.
+2. Classes not related to React are written in lower case with dashes. Example: video-container
+*/
+
+/* Base */
+@import url("./base/layout.css");
+
+/* Pages/Templates */
+@import url("./pages/home.css");
+@import url("./pages/results.css");
+@import url("./pages/video.css");
+
+/* Modules */
+@import url("./modules/card.css");
+@import url("./modules/header.css");
+@import url("./modules/meta-data.css");
+@import url("./modules/search-bar.css");
+
+/* Components */
+@import url("./components/button.css");
+@import url("./components/horizontalRule.css");
+@import url("./components/typography.css");
